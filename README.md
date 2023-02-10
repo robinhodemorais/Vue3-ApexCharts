@@ -1,4 +1,4 @@
-# t
+# Charts VUE3 - ApexCharts
 
 ## Project setup
 ```
